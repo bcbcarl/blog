@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+.vscode/.browse.VC.db*
+node_modules/
+public/
+.deploy*/
